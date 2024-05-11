@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="off_white">#f2f1f6</color>
+
+    <color name="secondary">#96C5E1</color>
+    <color name="primary">#1B2323</color>
+    <color name="powder_color">#E0F7FA</color>
+    <color name="primary_variant">#3f4e4f</color>
+
+    <color name="check_container">#4CAF50</color>
+    <color name="check_icon">#C8E6C9</color>
+
+</resources>
